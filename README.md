@@ -1,4 +1,5 @@
-⭐ Review Bot — Sleek & Powerful Discord Feedback System
+# ⭐ Review Bot
+Sleek & Powerful Discord Feedback System
 Looking for a modern and intuitive way to collect feedback on your Discord server? Review Bot is the ultimate solution — designed with simplicity, power, and usability in mind.
 
 🚀 Features at a Glance
