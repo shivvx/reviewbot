@@ -1,23 +1,20 @@
-# Review Bot
-**Looking for a sleek and modern Discord review bot? We’ve got just what you need!**
+⭐ Review Bot — Sleek & Powerful Discord Feedback System
+Looking for a modern and intuitive way to collect feedback on your Discord server? Review Bot is the ultimate solution — designed with simplicity, power, and usability in mind.
 
-Our bot is designed to enhance your Discord experience with ease. It’s user-friendly, intuitive, and packed with features that make managing reviews a breeze.
+🚀 Features at a Glance
+🔒 Role-Based Permissions — Control who can submit reviews with ease.
+📜 Automatic Logging — Every review is stored for easy tracking and moderation.
+🎨 Clean & Modern UI — Designed to look and feel professional in any server.
+🧩 Interactive Modals — Collect reviews via dynamic, user-friendly forms.
+🖼 Optional Image Support — Let users include screenshots or examples in reviews.
+💡 Why Use Review Bot?
+Whether you're offering services, running a community, or simply want structured feedback — Review Bot helps you streamline, log, and present reviews in a polished way.
 
-### Key Features:
-- **Permission-Based Control**: Tailor access to keep your server secure.
-- **Comprehensive Logging System**: Track every review with ease.
-- **Sleek, Modern Design**: Simple yet powerful.
-- **Interactive Modal System**: A clean and dynamic user experience.
-
-Upgrade your server's review system with our powerful bot today!
+🛠 Easy to Set Up, Simple to Customize
+Built with discord.js and ready to deploy in just minutes on any bot-hosting platform (like a VPS, Google Cloud, Railway, etc.).
 
 ---
 
-## Showcase & Screenshots
-https://www.youtube.com/embed/nYqg7hfPgjg
 
-![]([https://i.imgur.com/Gz7xcJV.png](https://media.discordapp.net/attachments/1383188419517091993/1384194482207195246/4BFBF7A6-50BC-4F66-A23F-9A5B4F8D4BC3.png?ex=68518b11&is=68503991&hm=6aacb2676e4c894d48a0e8ec0b5f91ad46e2a12a7f3ce846c5804c4a5995c6ba&=&format=webp&quality=lossless))
-![](https://i.imgur.com/7iYgKPa.png)
-![](https://i.imgur.com/IL1s460.png)
-![](https://i.imgur.com/BI99oni.png)
-![](https://i.imgur.com/jcmEjja.png)
+![](https://cdn.discordapp.com/attachments/1383188419517091993/1384194482207195246/4BFBF7A6-50BC-4F66-A23F-9A5B4F8D4BC3.png?ex=68518b11&is=68503991&hm=6aacb2676e4c894d48a0e8ec0b5f91ad46e2a12a7f3ce846c5804c4a5995c6ba&)
+
