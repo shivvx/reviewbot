@@ -3,10 +3,15 @@ Looking for a modern and intuitive way to collect feedback on your Discord serve
 
 🚀 Features at a Glance
 🔒 Role-Based Permissions — Control who can submit reviews with ease.
+
 📜 Automatic Logging — Every review is stored for easy tracking and moderation.
+
 🎨 Clean & Modern UI — Designed to look and feel professional in any server.
+
 🧩 Interactive Modals — Collect reviews via dynamic, user-friendly forms.
+
 🖼 Optional Image Support — Let users include screenshots or examples in reviews.
+
 💡 Why Use Review Bot?
 Whether you're offering services, running a community, or simply want structured feedback — Review Bot helps you streamline, log, and present reviews in a polished way.
 
